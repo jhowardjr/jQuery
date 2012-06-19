@@ -1,0 +1,20 @@
+$(document).ready(function() {
+  // b) console.log($('div#seating_chart'))
+  // c) console.log($('ul#economy_class'));
+  //
+  // d) console.log($('li.a'));
+  // e) console.log($('li.b, li.c'));
+  //
+  // f) console.log($('ul li'));
+  // g) console.log($('ul#first_class li'));
+  // h) console.log($('div ul#first_class li ul li'));
+  // i) console.log($('ul li ul li'));
+  // j) console.log($('div ul li:first'));
+  // k) console.log($('div ul li ul li:last'));
+  // l) console.log($('div > ul#first_class, div > ul#economy_class'));
+  // m) console.log($('ul#economy_class > li'));
+  // n) console.log($('ul#economy_class > li:first, ul#first_class > li:first'));
+  // o) console.log($("li.a, ul#first_class li.d, ul#economy_class li.f"));
+  // p) console.log($("ul#first_class li.b, li.c, ul#economy_class li.d"));
+  //
+});
